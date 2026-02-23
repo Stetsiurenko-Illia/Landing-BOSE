@@ -3,7 +3,7 @@
 A high-end, interactive landing page dedicated to BOSE products. This project focuses on premium UI/UX, smooth animations, and robust frontend architecture.
 
 ## 🔗 Project Links
-* **Live Demo**: [[(https://landing-page-bose.netlify.app/)](https://landing-page-bose.netlify.app/)
+* **Live Demo**: [https://landing-page-bose.netlify.app/](https://landing-page-bose.netlify.app/)
 
 ## 🛠 Technical Stack
 * **HTML5**: Structured with a focus on SEO and accessibility for e-commerce.
